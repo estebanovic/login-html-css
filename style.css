@@ -52,7 +52,7 @@ button{
     margin: 0;
     float: left;
     border-radius: 0px 10px 10px 0px;
-    background-color: #ff435f;
+    background: linear-gradient(to right, #ff454c, #ff426b);
     text-align: center;
     color: white;
 }
